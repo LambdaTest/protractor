@@ -16,7 +16,7 @@
     "gulp-rename": "^1.2.0",
     "gulp-replace": "^0.4.0",
     "jasmine": "2.3.2",
-    "karma": "^0.12.21",
+    "karma": "^6.4.4",
     "karma-chrome-launcher": "^0.1.4",
     "karma-jasmine": "^0.1.5",
     "lodash": "^2.4.1",
